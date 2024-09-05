@@ -157,8 +157,7 @@ public class TestNgVtigerTestCases extends SeleniumUtility {
 
 	}
 	@AfterMethod
-		public void tearDown()
-		{
+		public void tearDown(){
 		tearDownn();
 	}
 
